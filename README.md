@@ -174,3 +174,19 @@ The application runs locally and does not require AWS infrastructure.
 
 
 
+\## Application Screenshot
+
+
+
+!\[Docker Website](docker-website.png)
+
+
+
+\## Architecture Diagram
+
+
+
+See the \[Docker Architecture Diagram](architecture.md) for a visual overview of the containerized application.
+
+
+
